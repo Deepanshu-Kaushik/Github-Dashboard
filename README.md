@@ -24,7 +24,7 @@ Welcome to the Github Dashboard project! This application allows you to view inf
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/github-dashboard.git
+   git clone https://github.com/Deepanshu-Kaushik/Github-Dashboard
 
    ```
 
